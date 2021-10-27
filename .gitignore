@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+composer.lock
+package-lock.json
+.env
+App.setting.json
+.idea
+phpunit.xml.bak
+.phpunit.result.cache
+/storage
+/resources
+/public/assets
